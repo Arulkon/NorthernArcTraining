@@ -32,8 +32,6 @@ public class RechargeTrackerMain {
                 case 3:
                     System.out.println("The available balance now is "+r.getBalance());
                     break;
-                case 4:
-                    return;
                 default:
                     System.out.println("Invalid option");
 
